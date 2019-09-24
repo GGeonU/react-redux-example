@@ -35,7 +35,7 @@ const initialState = {
         {
             id: 1,
             text: 'reduxxxxxxx',
-            done: true
+            done: false
         }
     ]
 };
